@@ -5,14 +5,16 @@
     display:block;
     justify-content:space-evenly;
     flex-wrap: wrap;
-    margin-top: 50px;
-    margin-left: 700px;
-    margin-right: 50px;
+    margin-top: 490px;
+    margin-left: 600px;
+    margin-right: -900px;
     width: 100%;
     height: 4px;
 }
 .container1{
-    margin-left: 300px;
+    margin-left: 200px;
+    margin-top: -20px;
+
 }
 h1::before{
     content: "";
@@ -55,7 +57,7 @@ h2{
 .box1{
    border: 2px solid rgb(226, 90, 90, 0.911);
     border-radius:20px ;
-    margin-top: 30px;
+    margin-top: -10px;
     margin-bottom: 10px;
     margin-left: 350px;
     margin-right: 10px;
@@ -83,15 +85,17 @@ label{
     font-size: 20px;
 
 }
-.container3{ 
+/* .container3{ 
     justify-content: center;
     text-align: center;
     width: 750px; 
      height: 30px;
      margin-left: 20px;
-} 
+     margin-top: 60px;
+    
+}  */
 .card{
-    margin-top:-310px;
+    margin-top:-710px;
     margin-bottom:10px;
     margin-left: 620px;
     margin-right: 10px;
